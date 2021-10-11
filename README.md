@@ -39,7 +39,7 @@ Add the registry & user prefix of `ghcr.io/drpayyne/` to all the below packages 
 | Service | Package & Tag |
 |---|---|
 | PHP 7.4 | <ul><li>`warden-php` (latest)</li><li>`warden-php:7.4`</li></ul> |
-| PHP 7.4 for M2 | <ul><li>`warden-php-m2` (latest)</li><li>`warden-php-m2:7.4`</li></ul> |
+| PHP 7.4 for M2 | <ul><li>`warden-php-m2` (latest)</li><li>`warden-php-m2:7.4 (Low Memory M1)`</li></ul> |
 | PHP 7.4 for M2 with xDebug2 | <ul><li>`warden-php-m2-xdebug2` (latest)</li><li>`warden-php-m2-xdebug2:7.4`</li></ul> |
 | PHP 7.4 for M2 with xDebug3 | <ul><li>`warden-php-m2-xdebug3` (latest)</li><li>`warden-php-m2-xdebug3:7.4`</li></ul> |
 | Magepack | <ul><li>`warden-magepack` (latest)</li><li>`warden-magepack:2.3`</li></ul> |
